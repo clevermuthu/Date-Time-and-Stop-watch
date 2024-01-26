@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: lightgreen;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#main .btn{
+    background-color: red;
+    font-size: xx-large;
+    color: white;
+}
+#sw .btn{
+    color: white;
+    font-size: xx-large;
+}
+
+#sw .h1{
+    display: inline;
+    color: blue;
+}
+
+/* .col{
+    padding-top: 30px;
+} */
+
+.row{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+#demo2{
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+#demo{
+    font-size: 90px;
+    font-family: sans-serif;
+}
+
+#demo1{
+    font-size: 45px;
+    font-family: sans-serif;
+}
